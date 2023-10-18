@@ -1,7 +1,3 @@
-<div align="left">
-<img width="300" src="./Frontend/src/assets/logo.png">
-</div>
-
 <h1>🎤 아이랑 진짜 놀자! 
 온라인 놀이방 프로젝트 <span style="background-color:#fff5b1">나랑노랑</span></h1>
 
